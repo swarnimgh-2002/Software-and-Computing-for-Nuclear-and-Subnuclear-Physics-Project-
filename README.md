@@ -23,3 +23,5 @@ It uses the MAGIC Gamma Telescope dataset and trains a Random Forest Classifier 
    *(On Windows PowerShell, replace `$(pwd)` with `${PWD}`)*
 
 The pipeline will download the data, train the AI, and output a `ml_evaluation_plots.pdf` in the `output/` folder showing the ROC curve and Feature Importances.
+
+**Read REPORT_Final.md** for full explaination of the project and results.
